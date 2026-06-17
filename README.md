@@ -309,4 +309,4 @@ After signup + some transactions, your collections will look like:
 
 ---
 
-Built with ❤️ using the MERN Stack
+Built with  using the MERN Stack
